@@ -1,0 +1,15 @@
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/bin/Debug/net7.0/DZ_zadacha36
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/bin/Debug/net7.0/DZ_zadacha36.deps.json
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/bin/Debug/net7.0/DZ_zadacha36.runtimeconfig.json
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/bin/Debug/net7.0/DZ_zadacha36.dll
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/bin/Debug/net7.0/DZ_zadacha36.pdb
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/obj/Debug/net7.0/DZ_zadacha36.csproj.AssemblyReference.cache
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/obj/Debug/net7.0/DZ_zadacha36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/obj/Debug/net7.0/DZ_zadacha36.AssemblyInfoInputs.cache
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/obj/Debug/net7.0/DZ_zadacha36.AssemblyInfo.cs
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/obj/Debug/net7.0/DZ_zadacha36.csproj.CoreCompileInputs.cache
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/obj/Debug/net7.0/DZ_zadacha36.dll
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/obj/Debug/net7.0/refint/DZ_zadacha36.dll
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/obj/Debug/net7.0/DZ_zadacha36.pdb
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/obj/Debug/net7.0/DZ_zadacha36.genruntimeconfig.cache
+/Users/germanyarenko/Desktop/dz5/DZ_zadacha36/obj/Debug/net7.0/ref/DZ_zadacha36.dll
